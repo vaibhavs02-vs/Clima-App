@@ -2,5 +2,5 @@
 
 
 # Clima ☁
-*Basic weather information app with accurate weather information and nice interface.
+##Basic weather information app with accurate weather information and nice interface.
 
